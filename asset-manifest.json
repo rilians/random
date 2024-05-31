@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rilians/random.git/static/css/main.de816fcf.css",
+    "main.js": "/rilians/random.git/static/js/main.b72c1caf.js",
+    "index.html": "/rilians/random.git/index.html",
+    "main.de816fcf.css.map": "/rilians/random.git/static/css/main.de816fcf.css.map",
+    "main.b72c1caf.js.map": "/rilians/random.git/static/js/main.b72c1caf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de816fcf.css",
+    "static/js/main.b72c1caf.js"
+  ]
+}
